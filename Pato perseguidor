@@ -1,0 +1,21 @@
+Ordem da montagem:
+
+Quando eu começar como um clone (laranja)
+Vá para _posição aléatoria_ (azul)
+mostre(roxo)
+sempre (laranja) 
+aponte para _ponteiro do mouse_ (azul)
+mova '10' passos (azul)
+se (laranja) tocando em _ponteiro do mouse_ (azul) então 
+diga "Quack, perdeu!" por '2' segundo (roxo)
+pare _todos_
+
+*Pontos:*
+
+Quando bandeira for clicado (laranja)
+mude _Pontos_ para '0' (laranja escuro)
+repita '10' vezes (laranja)
+crie clone de _este ator_ (laranja)
+adicione '1' a _pontos_ (laranja escuro)
+espere '3' seg (laranja)
+esconde (roxo)
